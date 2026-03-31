@@ -1,0 +1,387 @@
+<COURSE_DATA_START>
+[
+    {
+        "maHP": "FL211011",
+        "tenMonHoc": "Tiếng Anh 1",
+        "tinChi": 3,
+        "moTa": "Môn học này thường tập trung vào củng cố kiến thức ngữ pháp cơ bản, từ vựng thông dụng và phát triển các kỹ năng nghe, nói, đọc, viết ở trình độ sơ cấp. Mục tiêu là giúp sinh viên làm quen với tiếng Anh học thuật và giao tiếp cơ bản.",
+        "taiLieu": "https://www.studocu.vn/vn/course/truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van/tieng-anh-1/5325949",
+        "hocKy": 1
+    },
+    {
+        "maHP": "KC211027",
+        "tenMonHoc": "Tin học đại cương",
+        "tinChi": 2,
+        "moTa": "Cung cấp kiến thức tổng quan về công nghệ thông tin, bao gồm cấu trúc máy tính, hệ điều hành, mạng máy tính, internet, phần mềm ứng dụng cơ bản (như Word, Excel, PowerPoint) và các khái niệm cơ bản về lập trình.",
+        "taiLieu": "https://tailieuhust.com/tai-lieu-mon-tin-hoc-dai-cuong-hust/",
+        "hocKy": 1
+    },
+    {
+        "maHP": "KC211685",
+        "tenMonHoc": "Toán cho Công nghệ thông tin",
+        "tinChi": 2,
+        "moTa": "Tập trung vào các kiến thức toán học nền tảng cần thiết cho ngành công nghệ thông tin, thường bao gồm đại số tuyến tính, giải tích, toán rời rạc, logic toán học. Đây là nền tảng quan trọng cho các môn lập trình và thuật toán.",
+        "taiLieu": "https://www.studocu.vn/vn/course/truong-dai-hoc-duy-tan/toan-ung-dung-cntt/5403994",
+        "hocKy": 1
+    },
+    {
+        "maHP": "KC212604",
+        "tenMonHoc": "Kỹ thuật lập trình",
+        "tinChi": 2,
+        "moTa": "Giới thiệu về các nguyên lý cơ bản của lập trình, cấu trúc điều khiển, kiểu dữ liệu, hàm, mảng, và các kỹ thuật lập trình cơ bản khác. Sinh viên sẽ học cách viết các chương trình đơn giản và giải quyết vấn đề bằng code.",
+        "taiLieu": "https://www.tailieubkhn.com/2021/01/ky-thuat-lap-trinh.html",
+        "hocKy": 1
+    },
+    {
+        "maHP": "KC212681",
+        "tenMonHoc": "Nhập môn ngành công nghệ",
+        "tinChi": 2,
+        "moTa": "Môn học này giúp sinh viên có cái nhìn tổng quan về các lĩnh vực khác nhau trong công nghệ thông tin (ví dụ: phát triển phần mềm, mạng, an toàn thông tin, trí tuệ nhân tạo), xu hướng công nghệ và cơ hội nghề nghiệp.",
+        "taiLieu": "https://www.slideshare.net/slideshow/nhp-mn-cng-ngh-thng-tin/75154954",
+        "hocKy": 1
+    },
+    {
+        "maHP": "KC212682",
+        "tenMonHoc": "Thực hành Kỹ thuật lập trình",
+        "tinChi": 2,
+        "moTa": "Là môn thực hành đi kèm với \"Kỹ thuật lập trình\", giúp sinh viên áp dụng các kiến thức đã học vào việc viết code thực tế, giải các bài tập lập trình để củng cố kỹ năng.",
+        "taiLieu": "https://uneti.edu.vn/wp-content/uploads/2020/05/33.1-%C4%90CCT-K%E1%BB%B9-thu%E1%BA%ADt-l%E1%BA%ADp-tr%C3%ACnh.pdf",
+        "hocKy": 1
+    },
+    {
+        "maHP": "KT212202",
+        "tenMonHoc": "Kỹ năng mềm",
+        "tinChi": 2,
+        "moTa": "Trang bị các kỹ năng cần thiết cho sinh viên như kỹ năng giao tiếp, làm việc nhóm, thuyết trình, giải quyết vấn đề, tư duy phản biện, quản lý thời gian, v.v., giúp sinh viên hòa nhập tốt vào môi trường học tập và làm việc.",
+        "taiLieu": "https://tailieuhust.com/tai-lieu-mon-ky-nang-mem-hust/",
+        "hocKy": 1
+    },
+    {
+        "maHP": "SP211032",
+        "tenMonHoc": "Thể dục cơ bản và điền kinh",
+        "tinChi": 1,
+        "moTa": "Chỉ cần chọn 1 trong 2 môn.",
+        "taiLieu": "",
+        "hocKy": 1
+    },
+    {
+        "maHP": "SP211039",
+        "tenMonHoc": "Cờ vua 1",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 1
+    },
+    {
+        "maHP": "FL211012",
+        "tenMonHoc": "Tiếng Anh 2",
+        "tinChi": 3,
+        "moTa": "Tiếp nối Tiếng Anh 1, môn này tiếp tục củng cố và phát triển các kỹ năng ngôn ngữ (nghe, nói, đọc, viết) ở trình độ cao hơn, tập trung vào tiếng Anh học thuật và giao tiếp trong môi trường công nghệ.",
+        "taiLieu": "https://tailieuchuan.vn/c1969/tieng-anh-2.html",
+        "hocKy": 2
+    },
+    {
+        "maHP": "KC211604",
+        "tenMonHoc": "Lý thuyết thông tin",
+        "tinChi": 2,
+        "moTa": "Giới thiệu các khái niệm cơ bản về thông tin, mã hóa, nén dữ liệu, và truyền thông. Môn này cung cấp nền tảng toán học cho các lĩnh vực như mạng máy tính, xử lý tín hiệu, và an toàn thông tin.",
+        "taiLieu": "https://tailieuhust.com/ly-thuyet-thong-tin-hust/",
+        "hocKy": 2
+    },
+    {
+        "maHP": "KC212601",
+        "tenMonHoc": "Cấu trúc rời rạc",
+        "tinChi": 2,
+        "moTa": "Cung cấp các kiến thức toán học nền tảng cho khoa học máy tính như logic mệnh đề, lý thuyết tập hợp, quan hệ, hàm số, phương pháp chứng minh, lý thuyết đồ thị và cây. Đây là công cụ quan trọng cho việc phân tích và thiết kế thuật toán.",
+        "taiLieu": "https://www.studocu.vn/vn/document/truong-dai-hoc-cong-nghiep-thanh-pho-ho-chi-minh/cau-truc-roi-rac/giao-trinh-ly-thuyet-cau-truc-roi-rac-2021-2022-loi-noi-dau-muc-luc/20546701",
+        "hocKy": 2
+    },
+    {
+        "maHP": "KC212602",
+        "tenMonHoc": "Tổ chức máy tính",
+        "tinChi": 3,
+        "moTa": "Nghiên cứu về kiến trúc và cách hoạt động của máy tính ở cấp độ phần cứng, bao gồm các thành phần như CPU, bộ nhớ, thiết bị I/O, và cách chúng tương tác với nhau. Môn học này giúp sinh viên hiểu sâu về nền tảng vật lý của máy tính.",
+        "taiLieu": "https://www.uit.edu.vn/tai-lieu-mon-chuc-cau-truc-may-tinh-ii",
+        "hocKy": 2
+    },
+    {
+        "maHP": "KC215037",
+        "tenMonHoc": "Cấu trúc dữ liệu và giải thuật",
+        "tinChi": 3,
+        "moTa": "Đây là một trong những môn học cốt lõi, giới thiệu các cách tổ chức dữ liệu hiệu quả (mảng, danh sách liên kết, cây, đồ thị, bảng hăm...) và các thuật toán cơ bản để xử lý dữ liệu (tìm kiếm, sắp xếp, duyệt...). Môn học này rất quan trọng để viết code hiệu quả và tối ưu.",
+        "taiLieu": "https://dse.vnua.edu.vn/ncthang/th02016/ThamKhao/Sach_CTDLGT_DoXuanLoi.pdf",
+        "hocKy": 2
+    },
+    {
+        "maHP": "NL211702",
+        "tenMonHoc": "Pháp luật Việt Nam Đại cương",
+        "tinChi": 2,
+        "moTa": "Cung cấp kiến thức cơ bản về hệ thống pháp luật Việt Nam, các nguyên tắc chung của luật pháp, quyền và nghĩa vụ của công dân, cũng như một số quy định pháp luật liên quan đến lĩnh vực công nghệ thông tin.",
+        "taiLieu": "https://onthisinhvien.com/tong-hop-kien-thuc-phap-luat-dai-cuong-on-tap-cuc-chill-",
+        "hocKy": 2
+    },
+    {
+        "maHP": "SP211006",
+        "tenMonHoc": "Xã hội học đại cương",
+        "tinChi": 2,
+        "moTa": "Giới thiệu các khái niệm cơ bản của xã hội học, các lý thuyết xã hội, cấu trúc xã hội, các vấn đề xã hội và quá trình thay đổi xã hội. Môn này giúp sinh viên có cái nhìn rộng hơn về mối quan hệ giữa công nghệ và xã hội.",
+        "taiLieu": "https://tailieuvnu.com/giao-trinh-xa-hoi-hoc-dai-cuong/",
+        "hocKy": 2
+    },
+    {
+        "maHP": "SP211033",
+        "tenMonHoc": "Bóng chuyền cơ bản",
+        "tinChi": 1,
+        "moTa": "Chỉ cần chọn 1 trong 5 môn.",
+        "taiLieu": "",
+        "hocKy": 2
+    },
+    {
+        "maHP": "SP211034",
+        "tenMonHoc": "Bơi lội cơ bản",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 2
+    },
+    {
+        "maHP": "SP211035",
+        "tenMonHoc": "Cầu lông cơ bản",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 2
+    },
+    {
+        "maHP": "SP211040",
+        "tenMonHoc": "Cờ vua 2",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 2
+    },
+    {
+        "maHP": "SP211042",
+        "tenMonHoc": "Bóng bàn cơ bản",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 2
+    },
+    {
+        "maHP": "FL211013",
+        "tenMonHoc": "Tiếng Anh 3",
+        "tinChi": 3,
+        "moTa": "Tiếp tục nâng cao các kỹ năng tiếng Anh (nghe, nói, đọc, viết) ở trình độ trung cấp cao hoặc tiền cao cấp, tập trung vào các chủ đề chuyên ngành và học thuật sâu hơn.",
+        "taiLieu": "https://tailieuchuan.vn/tieng-anh/tieng-anh-3.html",
+        "hocKy": 3
+    },
+    {
+        "maHP": "KC212605",
+        "tenMonHoc": "Cơ sở dữ liệu",
+        "tinChi": 3,
+        "moTa": "Giới thiệu các khái niệm cơ bản về hệ quản trị cơ sở dữ liệu (DBMS), mô hình dữ liệu (đặc biệt là mô hình quan hệ), ngôn ngữ truy vấn SQL, thiết kế cơ sở dữ liệu, và các vấn đề liên quan đến tính toàn vẹn và bảo mật dữ liệu.",
+        "taiLieu": "https://www.slideshare.net/slideshow/gio-trnh-c-s-d-liu-phan-tn-qucpdf/256219357",
+        "hocKy": 3
+    },
+    {
+        "maHP": "KC212686",
+        "tenMonHoc": "Thực tế nghề nghiệp",
+        "tinChi": 1,
+        "moTa": "Môn học này thường yêu cầu sinh viên tham gia các hoạt động thực tế tại doanh nghiệp, tổ chức hoặc thực hiện các dự án nhỏ để làm quen với môi trường làm việc thực tế, áp dụng kiến thức đã học vào các tình huống cụ thể.",
+        "taiLieu": "https://www.slideshare.net/slideshow/bo-co-thc-hnh-ngh-nghiep-trng-i-hc-m-h-nidocx/252851251",
+        "hocKy": 3
+    },
+    {
+        "maHP": "KC215039",
+        "tenMonHoc": "Nhập môn mạng máy tính",
+        "tinChi": 3,
+        "moTa": "Cung cấp kiến thức nền tảng về mạng máy tính, bao gồm các mô hình mạng (OSI, TCP/IP), các giao thức cơ bản (HTTP, FTP, DNS), địa chỉ IP, và các thiết bị mạng.",
+        "taiLieu": "http://thuvien.nute.edu.vn/tai-lieu/giao-trinh-nhap-mon-mang-may-tinh-918.aspx",
+        "hocKy": 3
+    },
+    {
+        "maHP": "ML211030",
+        "tenMonHoc": "Triết học Mác - Lênin",
+        "tinChi": 3,
+        "moTa": "Môn học lý luận chính trị, giới thiệu các nguyên lý cơ bản của Triết học Mác - Lênin về vật chất, ý thức, phép biện chứng duy vật, lý luận nhận thức, và các vấn đề về xã hội, con người.",
+        "taiLieu": "https://tailieuhust.com/tai-lieu-mon-triet-hoc-mac-lenin-triet-1-hust/",
+        "hocKy": 3
+    },
+    {
+        "maHP": "KC213611",
+        "tenMonHoc": "Lập trình hướng đối tượng",
+        "tinChi": 3,
+        "moTa": "Giới thiệu các nguyên lý của lập trình hướng đối tượng (OOP) như lớp, đối tượng, tính đóng gói, thừa kế, đa hình. Sinh viên sẽ học cách thiết kế và triển khai các chương trình lớn, có cấu trúc tốt hơn bằng ngôn ngữ hỗ trợ OOP (ví dụ: Java, C++, Python).",
+        "taiLieu": "https://tailieuhust.com/lap-trinh-huong-doi-tuong-hust/",
+        "hocKy": 3
+    },
+    {
+        "maHP": "KC215040",
+        "tenMonHoc": "Lập trình Windows",
+        "tinChi": 3,
+        "moTa": "Tập trung vào việc phát triển ứng dụng trên nền tảng Windows, sử dụng các framework và công cụ của Microsoft (ví dụ: .NET, C#). Sinh viên sẽ học cách tạo giao diện người dùng, xử lý sự kiện và tương tác với hệ điều hành.",
+        "taiLieu": "https://thuvienso.hcmute.edu.vn/tag/lap-trinh-windows.html",
+        "hocKy": 3
+    },
+    {
+        "maHP": "SP211036",
+        "tenMonHoc": "Thể dục nhịp điệu cơ bản",
+        "tinChi": 1,
+        "moTa": "Chỉ cần chọn 1 trong 5 môn.",
+        "taiLieu": "",
+        "hocKy": 3
+    },
+    {
+        "maHP": "SP211037",
+        "tenMonHoc": "Taekwondo cơ bản",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 3
+    },
+    {
+        "maHP": "SP211038",
+        "tenMonHoc": "Bóng đá cơ bản",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 3
+    },
+    {
+        "maHP": "SP211041",
+        "tenMonHoc": "Cờ vua 3",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 3
+    },
+    {
+        "maHP": "SP211043",
+        "tenMonHoc": "Bóng rổ cơ bản",
+        "tinChi": 1,
+        "moTa": "",
+        "taiLieu": "",
+        "hocKy": 3
+    },
+    {
+        "maHP": "FL211014",
+        "tenMonHoc": "Tiếng Anh 4",
+        "tinChi": 3,
+        "moTa": "Tiếp tục phát triển các kỹ năng tiếng Anh ở trình độ cao hơn, tập trung vào việc đọc tài liệu chuyên ngành, viết báo cáo kỹ thuật và giao tiếp hiệu quả trong môi trường làm việc quốc tế.",
+        "taiLieu": "https://tailieuchuan.vn/c1967/tieng-anh-4.html",
+        "hocKy": 4
+    },
+    {
+        "maHP": "KC211006",
+        "tenMonHoc": "Xác suất thống kê",
+        "tinChi": 2,
+        "moTa": "Cung cấp kiến thức về lý thuyết xác suất, các quy luật phân phối, ước lượng tham số, kiểm định giả thuyết và hồi quy tuyến tính. Đây là nền tảng cho các lĩnh vực như phân tích dữ liệu, trí tuệ nhân tạo và học máy.",
+        "taiLieu": "https://tailieuhust.com/tai-lieu-mon-xac-suat-thong-ke-hust/",
+        "hocKy": 4
+    },
+    {
+        "maHP": "KC213608",
+        "tenMonHoc": "Nhập môn kỹ nghệ phần mềm",
+        "tinChi": 2,
+        "moTa": "Giới thiệu các nguyên tắc, phương pháp và công cụ để thiết kế, phát triển, kiểm thử và bảo trì phần mềm một cách có hệ thống và hiệu quả, đảm bảo chất lượng sản phẩm.",
+        "taiLieu": "https://www.tailieubkhn.com/2021/09/nhap-mon-cong-nghe-phan-mem-tai-lieu-co.html",
+        "hocKy": 4
+    },
+    {
+        "maHP": "KC215036",
+        "tenMonHoc": "Phương pháp nghiên cứu khoa học",
+        "tinChi": 2,
+        "moTa": "Trang bị cho sinh viên các kỹ năng cơ bản về nghiên cứu khoa học, bao gồm cách đặt câu hỏi nghiên cứu, thu thập và phân tích dữ liệu, viết báo cáo khoa học, và đạo đức trong nghiên cứu.",
+        "taiLieu": "https://www.studocu.com/vn/document/truong-dai-hoc-thuong-mai/phuong-phap-nghien-cuu-khoa-hoc/ppnckh-giao-trinh-mon-phuong-phap-nghien-cuu-khoa-hoc-thuoc-dai-hoc-thuong-mai/23503787",
+        "hocKy": 4
+    },
+    {
+        "maHP": "KC215038",
+        "tenMonHoc": "Thiết kế và lập trình Web cơ bản",
+        "tinChi": 3,
+        "moTa": "Cung cấp kiến thức và kỹ năng về thiết kế và phát triển các ứng dụng web cơ bản, bao gồm HTML, CSS, JavaScript, và các khái niệm về giao diện người dùng (front-end) cũng như tương tác với máy chủ (back-end) ở mức độ sơ khai.",
+        "taiLieu": "https://thuvientvc.wordpress.com/wp-content/uploads/2015/08/quantriweb.pdf",
+        "hocKy": 4
+    },
+    {
+        "maHP": "KC215042",
+        "tenMonHoc": "Lập trình Python",
+        "tinChi": 3,
+        "moTa": "Giới thiệu ngôn ngữ lập trình Python, một ngôn ngữ đa năng và phổ biến, thường được sử dụng trong phát triển web, khoa học dữ liệu, trí tuệ nhân tạo, tự động hóa. Sinh viên sẽ học cú pháp, cấu trúc dữ liệu và các thư viện cơ bản của Python.",
+        "taiLieu": "https://codegym.vn/blog/giao-trinh-lap-trinh-python/",
+        "hocKy": 4
+    },
+    {
+        "maHP": "ML211031",
+        "tenMonHoc": "Kinh tế chính trị Mác - Lênin",
+        "tinChi": 3,
+        "moTa": "Môn học lý luận chính trị, nghiên cứu các quy luật kinh tế của chủ nghĩa tư bản và quá độ lên chủ nghĩa xã hội, vai trò của nhà nước và thị trường trong nền kinh tế.",
+        "taiLieu": "https://tailieuhust.com/tai-lieu-mon-kinh-te-chinh-tri-mac-lenin/",
+        "hocKy": 4
+    }
+]
+<COURSE_DATA_END>
+
+<MAJOR_CONTENT_START>
+Dưới đây là các môn học tiêu biểu trong ngành Công nghệ thông tin của trường ta:
+
+**I. Các môn Đại cương/Nền tảng của ngành CNTT:**
+- Tin học đại cương: Cung cấp kiến thức cơ bản về máy tính, hệ điều hành, mạng và các ứng dụng văn phòng.
+- Toán cho Công nghệ thông tin: Các kiến thức toán học nền tảng cần thiết cho CNTT (ví dụ: đại số tuyến tính, giải tích, toán rời rạc).
+- Lý thuyết thông tin: Nghiên cứu về lượng tử thông tin, mã hóa và truyền tin.
+- Cấu trúc rời rạc: Kiến thức toán học quan trọng cho khoa học máy tính (logic, tập hợp, đồ thị...).
+- Tổ chức máy tính: Nghiên cứu về kiến trúc và cách hoạt động của máy tính ở mức phần cứng.
+- Nhập môn ngành công nghệ: Giới thiệu tổng quan về các lĩnh vực và xu hướng trong ngành công nghệ.
+- Xác suất thống kê: Cung cấp kiến thức về xác suất và thống kê, cần thiết cho phân tích dữ liệu, trí tuệ nhân tạo.
+
+**II. Các môn Lập trình & Phát triển phần mềm:**
+- Kỹ thuật lập trình: Giới thiệu các nguyên lý cơ bản về lập trình cấu trúc, thường với ngôn ngữ như C/C++.
+- Thực hành Kỹ thuật lập trình: Các buổi thực hành đi kèm để củng cố kỹ năng lập trình cơ bản.
+- Cấu trúc dữ liệu và giải thuật: Nghiên cứu các cách tổ chức dữ liệu hiệu quả và các thuật toán xử lý dữ liệu. Đây là môn cực kỳ quan trọng trong CNTT.
+- Lập trình hướng đối tượng: Nghiên cứu mô hình lập trình dựa trên các đối tượng (OOP), thường với Java, C++ hoặc C#.
+- Lập trình Windows: Phát triển ứng dụng trên nền tảng Windows.
+- Nhập môn kỹ nghệ phần mềm: Giới thiệu quy trình, phương pháp phát triển phần mềm có hệ thống, chất lượng.
+- Thiết kế và lập trình Web cơ bản: Kiến thức và kỹ năng xây dựng website cơ bản (HTML, CSS, JavaScript).
+- Lập trình Python: Giới thiệu một trong những ngôn ngữ lập trình đa năng và phổ biến nhất hiện nay.
+
+**III. Các môn về Dữ liệu & Mạng:**
+- Cơ sở dữ liệu: Nghiên cứu về thiết kế, quản lý và truy vấn dữ liệu trong các hệ quản trị cơ sở dữ liệu.
+- Nhập môn mạng máy tính: Kiến thức cơ bản về cấu trúc, hoạt động và các giao thức của mạng máy tính.
+<MAJOR_CONTENT_END>
+
+<REGISTRATION_GUIDE_START>
+**1. Thời gian đăng ký học phần**
+* Đăng ký sớm: Thực hiện trước thời điểm bắt đầu học kỳ 1 tháng.
+* Đăng ký bình thường: Thực hiện trước thời điểm bắt đầu học kỳ 2 tuần.
+* Đăng ký muộn: Thực hiện trong 2 tuần đầu của học kỳ chính hoặc trong tuần đầu của học kỳ phụ, dành cho sinh viên muốn đăng ký học thêm hoặc đổi sang học phần khác khi không có lớp.
+
+**2. Phương thức đăng ký học phần**
+* **2.1. Đăng ký qua website (áp dụng trong thời gian đăng ký sớm và bình thường)**
+    * Truy cập trang chủ Trường Đại học Tây Nguyên: <a href="https://www.ttn.edu.vn" target="_blank">https://www.ttn.edu.vn</a>.
+    * Kéo xuống cuối trang, chọn Đăng ký tín chỉ.
+    * Nhập đầy đủ Mã sinh viên, Ngày tháng năm sinh, và Mật khẩu, sau đó chọn Login để thực hiện đăng ký.
+* **2.2. Đăng ký bằng phần mềm tại nhà**
+    * Truy cập website Trường, kéo đến cuối trang, chọn Tải PM đăng ký (dành cho sinh viên).
+    * Tải phần mềm gốc có tên dkhpttn.exe về máy tính.
+    * Chạy phần mềm; nếu có phiên bản mới, hệ thống sẽ yêu cầu cập nhật.
+    * Sau khi cập nhật, phần mềm chính DangKyHocPhan2018.exe sẽ được sử dụng để đăng ký.
+    * Nhập đầy đủ Mã sinh viên, Ngày tháng năm sinh, và Mật khẩu.
+    * Lưu ý: Mật khẩu ban đầu là mã sinh viên; sau lần đăng nhập đầu tiên, hệ thống sẽ yêu cầu đổi mật khẩu.
+* **2.3. Đăng ký tại phòng máy của Trung tâm Thông tin**
+    * Sử dụng phần mềm DangKyHocPhan.exe được cài đặt sẵn trên các máy tính tại Trung tâm Thông tin.
+    * Phần mềm này chỉ hoạt động trên mạng nội bộ của Nhà trường.
+    * Giao diện và cách sử dụng tương tự như phần mềm DangKyHocPhan2018.exe.
+
+**3. Đăng ký kiểm tra năng lực tiếng Anh đầu khóa**
+* Chức năng đăng ký kiểm tra năng lực tiếng Anh đầu khóa chỉ xuất hiện cho các lớp đầu khóa và trong khoảng thời gian từ ngày bắt đầu đăng ký đến ngày kết thúc hiển thị.
+* Nút lệnh Đăng ký và Hủy đăng ký chỉ hoạt động khi còn trong thời gian cho phép (trước ngày kiểm tra đầu tiên 3 ngày).
+* Một đợt kiểm tra có thể diễn ra trong nhiều ngày, mỗi ngày có 2 buổi, mỗi buổi chia 2 ca. Thời gian và địa điểm cụ thể sẽ được thông báo sau.
+* Khi nhấn vào nút Đăng ký, hệ thống sẽ yêu cầu xác nhận bằng cách nhập một chuỗi 5 số Hexadecimal (Hex).
+* Nếu đã đăng ký thành công và muốn hủy đăng ký, nhấn vào nút Hủy đăng ký và thực hiện xác nhận tương tự.
+
+**4. Nộp lệ phí và công nhận kết quả**
+* Sau khi có kết quả chuyển đổi, sinh viên cần nộp lệ phí trong vòng 2 tuần để kết quả được Nhà trường công nhận.
+* Nếu không nộp lệ phí trong thời gian quy định, kết quả sẽ tự động hủy.
+* Việc nộp lệ phí được thực hiện như việc nộp học phí tại ngân hàng Agribank.
+<REGISTRATION_GUIDE_END>
